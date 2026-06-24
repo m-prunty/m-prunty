@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcus Prunty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A back-end leaning student developer. Fluent in C and Python, Learning typescript and javascript. Comfortable with SQL and noSQL. Linux native, vim ethusiasist, sudoku enjoyer!\n I'm always looking for the next problem to solve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-prunty&label=Profile%20views&color=0e75b6&style=flat" alt="m-prunty" /> </p>
+
+- 🔨 I’m currently working on **fly-in, call_me_maybe**
+
+- 💭 Cloud infra **personal-site, shippybooks**
+
+- 🏞 Algorithms **push-swap, A-Maze_ing**
+
+- 💾 Memory handling [get_next_line](https://github.com/m-prunty/get_next_line)
 
 - 📫 How to reach me **marcusprunty@gmail.com**
 
