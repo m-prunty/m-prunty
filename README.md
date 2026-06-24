@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-prunty&label=Profile%20views&color=0e75b6&style=flat" alt="m-prunty" /> </p>
 
-- 🔨 I’m currently working on **fly-in, call_me_maybe**
+- 🔨 I’m currently working on **[fly-in](https://github.com/m-prunty/fly-in), [call_me_maybe](https://github.com/m-prunty/call_me_maybe)**
 
-- 💭 Cloud infra **personal-site, shippybooks**
+- 💭 Cloud infra **[personal-site](https://github.com/m-prunty/personal-site), [shippybooks](https://github.com/m-prunty/shippybooks)**
 
-- 🏞 Algorithms **push-swap, A-Maze_ing**
+- 🏞 Algorithms **[push_swap](https://github.com/m-prunty/push_swap), A_Maze_ing(https://github.com/m-prunty/a_maze_ing)**
 
 - 💾 Memory handling [get_next_line](https://github.com/m-prunty/get_next_line)
 
