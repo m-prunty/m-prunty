@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-prunty)](https://github.com/m-prunty/github-readme-stats)
 
 <!--
 **m-prunty/m-prunty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
