@@ -11,6 +11,10 @@
 
 - 💾 Memory handling [get_next_line](https://github.com/m-prunty/get_next_line)
 
+- 🎨 Graphics [fract_ol]((https://github.com/m-prunty/fract_ol)
+
+- 🏓 Inter process communication [minitalk]((https://github.com/m-prunty/minitalk)
+
 - 📫 How to reach me **marcusprunty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
