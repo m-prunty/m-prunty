@@ -5,7 +5,7 @@
 
 - 🔨 I’m currently working on **[fly-in](https://github.com/m-prunty/fly-in), [call_me_maybe](https://github.com/m-prunty/call_me_maybe)**
 
-- 💭 Cloud infra **[personal-site](https://github.com/m-prunty/personal-site), [shippybooks](https://github.com/m-prunty/shippybooks)**
+- 💭 Cloud infra **[personal-site](https://github.com/m-prunty/personal_site), [shippybooks](https://github.com/m-prunty/shippybooks)**
 
 - 🏞 Algorithms **[push_swap](https://github.com/m-prunty/push_swap), A_Maze_ing(https://github.com/m-prunty/a_maze_ing)**
 
