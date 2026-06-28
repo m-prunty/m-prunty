@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Marcus Prunty</h1>
-<h3 align="center">A back-end leaning student developer. Fluent in C and Python, Learning typescript and javascript. Comfortable with SQL and noSQL. Linux native, vim ethusiasist, sudoku enjoyer!\n I'm always looking for the next problem to solve</h3>
+<h3 align="center">A back-end leaning student developer. Fluent in C and Python, Learning typescript and javascript. Comfortable with SQL and noSQL. Linux native, vim ethusiasist, sudoku enjoyer!</h3> 
+<h3 align="center"> I'm always looking for the next problem to solve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-prunty&label=Profile%20views&color=0e75b6&style=flat" alt="m-prunty" /> </p>
 
-- 🔨 I’m currently working on **[fly-in](https://github.com/m-prunty/fly-in), [call_me_maybe](https://github.com/m-prunty/call_me_maybe)**
+- 🔨 I’m currently working on [fly-in](https://github.com/m-prunty/fly-in), [call_me_maybe](https://github.com/m-prunty/call_me_maybe)
 
-- 💭 Cloud infra **[personal-site](https://github.com/m-prunty/personal_site), [shippybooks](https://github.com/m-prunty/shippybooks)**
+- 💭 Cloud infra [personal-site](https://github.com/m-prunty/personal_site), [shippybooks](https://github.com/m-prunty/shippybooks)
 
-- 🏞 Algorithms **[push_swap](https://github.com/m-prunty/push_swap), A_Maze_ing(https://github.com/m-prunty/a_maze_ing)**
+- 🏞 Algorithms [push_swap](https://github.com/m-prunty/push_swap), [A_Maze_ing](https://github.com/m-prunty/a_maze_ing)
 
 - 💾 Memory handling [get_next_line](https://github.com/m-prunty/get_next_line)
 
-- 🎨 Graphics [fract_ol]((https://github.com/m-prunty/fract_ol)
+- 🎨 Graphics [fract-ol](https://github.com/m-prunty/fract-ol)
 
-- 🏓 Inter process communication [minitalk]((https://github.com/m-prunty/minitalk)
+- 🏓 Inter process communication [minitalk](https://github.com/m-prunty/minitalk)
 
 - 📫 How to reach me **marcusprunty@gmail.com**
 
